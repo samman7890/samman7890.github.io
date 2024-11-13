@@ -1,0 +1,29 @@
+.color-example {
+    color: purple;
+    background-color: #FFD700;
+    border: 2px solid rgb(0, 23, 128);
+}
+
+.header-example {
+    font-size: 36px;
+    font-family: Arial, sans-serif;
+    color: darkred;
+}
+
+.list-example {
+    list-style-type: square;
+    color: darkblue;
+}
+
+.text-example {
+    font-family: "Times New Roman", serif;
+    font-size: 20px;
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+
+.div-example {
+    background-color: lightgrey;
+    border: 3px dashed black;
+    padding: 10px;
+}
